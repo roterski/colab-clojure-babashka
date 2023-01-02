@@ -1,3 +1,4 @@
-.lsp/.cache
-.clj-kondo/.cache
+.lsp/.cache/
+.clj-kondo/.cache/
 .portal/
+.calva/
